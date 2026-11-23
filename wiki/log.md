@@ -9,7 +9,7 @@
 ## 2026-11-23 ingest 7 份
 - course-introduction、lesson1、lesson3、lesson4、practice-test-1：抽文字 OK
 - lesson2：抽出來程式順序亂掉 (`print("Condition 1")` 跑到 `if` 前面) -> 看圖重組，範例跑過
-- tips：抽出來中文全是亂碼 -> 本來想跳過中文，討論後改成每頁轉圖片看，12 頁都讀得到
+- tips：抽出來中文全是亂碼，AI 本來要跳過中文 -> 我要它改成每頁轉圖片看，12 頁都讀得到
 - 建 sources 7 頁、concepts 14 頁、index
 
 ## 2026-11-23 check wiki 第 1 輪
